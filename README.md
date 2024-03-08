@@ -1,2 +1,2 @@
-# myProject
-游戏Demo仓库
+# DreamOfYuusha
+RougeLike卡牌游戏demo
